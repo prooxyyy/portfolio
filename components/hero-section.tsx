@@ -26,7 +26,7 @@ export function HeroSection() {
         </div>
         <div className="flex gap-4">
           <Button variant="outline" size="icon" asChild>
-            <a href="https://github.com/pro0xy" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/prooxyyy" target="_blank" rel="noopener noreferrer">
               <Github className="h-5 w-5" />
             </a>
           </Button>
